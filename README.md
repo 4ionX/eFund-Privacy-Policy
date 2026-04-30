@@ -1,47 +1,74 @@
-# eFund-Privacy-Policy
-1. Introduction
-eFund is a mobile application designed to provide financial services and loan-related features for our users.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>eFund Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-2. Camera Usage
-eFund uses camera access only for app functionality such as scanning documents or capturing images required within the app.
+<body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 900px; margin: auto;">
 
-We do not use the camera for any background tracking or unauthorized recording.
+  <h1># eFund Privacy Policy</h1>
 
-3. Information We Collect
-We may collect the following information:
-- Personal Information: name, contact number, address, birth date, civil status
-- Documents: valid IDs and supporting documents uploaded by the user
-- App Data: basic usage data for app functionality and improvement
+  <h2>1. Introduction</h2>
+  <p>
+    eFund is a mobile application designed to provide financial services and loan-related features for our users.
+  </p>
 
-4. How We Use Your Information
-Your information is used only for:
-- Account and profile management
-- Loan processing and verification
-- Document validation
-- App functionality and service improvement
+  <h2>2. Camera Usage</h2>
+  <p>
+    eFund uses camera access only for app functionality such as scanning documents or capturing images required within the app.
+  </p>
+  <p>
+    We do not use the camera for any background tracking or unauthorized recording.
+  </p>
 
-5. Data Sharing
-We do not sell your personal data.
+  <h2>3. Information We Collect</h2>
+  <ul>
+    <li><b>Personal Information:</b> name, contact number, address, birth date, civil status</li>
+    <li><b>Documents:</b> valid IDs and supporting documents uploaded by the user</li>
+    <li><b>App Data:</b> basic usage data for app functionality and improvement</li>
+  </ul>
 
-We may only share information:
-- When required by law
-- With trusted service providers necessary for app operation
+  <h2>4. How We Use Your Information</h2>
+  <ul>
+    <li>Account and profile management</li>
+    <li>Loan processing and verification</li>
+    <li>Document validation</li>
+    <li>App functionality and service improvement</li>
+  </ul>
 
-6. Data Security
-We implement reasonable security measures to protect your data. However, no system is 100% secure.
+  <h2>5. Data Sharing</h2>
+  <p>We do not sell your personal data.</p>
+  <p>
+    We may only share information when required by law or with trusted service providers necessary for app operation.
+  </p>
 
-7. Data Retention
-We retain your data only as long as necessary to provide our services.
+  <h2>6. Data Security</h2>
+  <p>
+    We implement reasonable security measures to protect your data. However, no system is 100% secure.
+  </p>
 
-8. Children’s Privacy
-This app is intended for users 18 years old and above.
+  <h2>7. Data Retention</h2>
+  <p>
+    We retain your data only as long as necessary to provide our services.
+  </p>
 
-9. Your Rights
-You may request:
-- Access to your data
-- Correction of incorrect data
-- Deletion of your account and data
+  <h2>8. Children’s Privacy</h2>
+  <p>
+    This app is intended for users 18 years old and above.
+  </p>
 
-10. Contact Us
-Email: jey31vee@gmail.com
-Phone: +639455517086
+  <h2>9. Your Rights</h2>
+  <ul>
+    <li>Access to your data</li>
+    <li>Correction of incorrect data</li>
+    <li>Deletion of your account and data</li>
+  </ul>
+
+  <h2>10. Contact Us</h2>
+  <p>Email: jey31vee@gmail.com</p>
+  <p>Phone: +639455517086</p>
+
+</body>
+</html>
